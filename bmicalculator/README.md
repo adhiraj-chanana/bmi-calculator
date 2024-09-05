@@ -1,4 +1,23 @@
-# Getting Started with Create React App
+# BMI Calculator
+
+## Overview
+
+The BMI Calculator is a React-based web application that allows users to calculate their Body Mass Index (BMI) based on their height and weight. It features interactive sliders to adjust height and weight, and displays the BMI value in real-time.
+
+## Features
+
+- Interactive sliders for height and weight adjustment.
+- Real-time BMI calculation.
+- User-friendly and responsive interface.
+
+## Technologies Used
+
+- **React**: For building the user interface.
+- **CSS**: For styling the application.
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
